@@ -20,7 +20,7 @@ Problem 2 : Check whether a string is palindrome or not.
 let strReverse = str.split("").reverse().join("");
 
 if (str === strReverse) {
-  console.log("Yes , It is a Palindrome");
+  console.log("Yes ,It is a Palindrome");
 } else {
   console.log("No ,It is not a Palindrome");
 }
